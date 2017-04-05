@@ -8,3 +8,7 @@ Google Chrome :
 3. Wklej Fotka.com-Autoliker.js
 4. Zapisz Skrypt
 5. Wejdź na fotka.com i ciesz się autolike :)
+
+
+
+# Dodać coś nowego? Daj znać :) Chętnie to zrobię.
