@@ -12,3 +12,4 @@ Google Chrome :
 
 
 # Dodać coś nowego? Daj znać :) Chętnie to zrobię.
+- Stwórz Issue.
